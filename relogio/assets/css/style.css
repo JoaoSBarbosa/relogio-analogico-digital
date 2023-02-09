@@ -102,3 +102,10 @@ footer {
    color: #FFF;
    font-size: 13px;
 }
+footer a{
+   text-decoration: none;
+   color: rgb(191, 225, 254);
+}
+footer a:hover{
+   color: #00fff2;
+}
